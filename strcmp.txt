@@ -1,0 +1,3 @@
+strcmp(s1, s2). Si S1 anterior a S2 -1, >0 Si S1 posterior a S2, 0 si son iguales.
+
+strcp(dest, origen)
